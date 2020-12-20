@@ -5,7 +5,7 @@
     "target": "esnext",
     "module": "esnext",
     "strict": true,
-    "jsx": "react-jsx", 
+    "jsx": "react-jsx",
     "importHelpers": true,
     "moduleResolution": "node",
     "skipLibCheck": true,
@@ -39,6 +39,5 @@
   "exclude": [
     "node_modules",
     "src/**/*.spec.*"
-  ],
-  // "extends": "./node_modules/react-redux-typescript-scripts/tsconfig.json",
+  ]
 }
